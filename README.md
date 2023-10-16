@@ -1,4 +1,4 @@
-### Hello I'm suzzing_V
+### Hello I'm suzzing_V 🐾
 
 <!--
 **suzzingv/suzzingV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
